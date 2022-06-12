@@ -18,3 +18,10 @@ Rank dimention of coulmn space
 is non-zero row vectors of row-reduced echelon form of the given matrix
 nullity is the dimension of nulspace	
 A consistent system of equations has at least one solution, and an inconsistent system has no solution.
+
+
+
+
+
+
+i am testing weather it is wotking or not
