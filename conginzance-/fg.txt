@@ -1,0 +1,20 @@
+     vector space it is a group of objects called vectors, added collectively and
+multiplied (“scaled”) by numbers, called scalars.
+     span is the collection of all linear combinations of vectors. 
+  
+basis is just a combination of all the linearly independent vectors and span  
+The number of vectors in any basis of V
+     (or) number of rows and columns that a matrix has is called its dimension
+
+     The null space of any matrix A consists of all the vectors B such that AB = 0 and B is not zero
+The row space of a matrix is the collection of all linear combinations of its rows.
+     A column space (or range) of matrix X is the space that is spanned by X's columns
+
+     a set of vectors is said to be linearly dependent if there is a nontrivial linear combination 
+of the vector that equals the zero vector i.e all scalar values of a linear combination is zero
+     The rank-nullity theorem states that sum of the rank and the nullity in a given matrix.
+
+Rank dimention of coulmn space
+is non-zero row vectors of row-reduced echelon form of the given matrix
+nullity is the dimension of nulspace	
+A consistent system of equations has at least one solution, and an inconsistent system has no solution.
